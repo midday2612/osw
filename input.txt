@@ -117,3 +117,5 @@ Howtoforge: Linux tutorials
 Linux Documentation Project: How-tos, guides, and FAQs
 Linux Knowledge Base and Tutorial: Plenty of tutorials and in-depth guides
 LWN.net: Linux kernel news and more
+
+https://www.linux.com/what-is-linux/
